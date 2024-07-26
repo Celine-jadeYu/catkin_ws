@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/celine/catkin_ws/devel_isolated/ssr_pkg/setup.sh

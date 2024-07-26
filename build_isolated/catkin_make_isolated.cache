@@ -1,0 +1,2 @@
+ssr_pkg
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/celine/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/celine/catkin_ws/install_isolated
